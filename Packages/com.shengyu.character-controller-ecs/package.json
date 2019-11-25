@@ -1,0 +1,11 @@
+{
+    "name": "com.shengyu.character-controller-ecs",
+    "displayName": "Character Controller ECS",
+    "version": "0.0.1",
+    "unity": "2019.2",
+    "description": "一个基于物理的角色控制器",
+    "keywords": [
+    ],
+    "dependencies": {}
+  }
+  

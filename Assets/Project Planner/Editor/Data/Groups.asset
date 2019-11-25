@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 917709260, guid: 4cd9652fe3bf4c544863d07774f64cb2, type: 3}
+  m_Name: Groups
+  m_EditorClassIdentifier: 
+  _all:
+  - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-b84aaf9d-9de9-428e-8a4f-424a8b4f9992
+    _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
+    _name: Planned
+    _taskIds:
+    - 2688d265237bd1d1de21c04d2145a26709e35cdf-afba9756-08b8-46d7-8260-ac58c13e02f6
+    _scrollPosition: {x: 0, y: 0}
+    _treeWindow_SearchShow: 1
+    TreeWindowShowAnimation:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    _treeWindow_ShowTasks: 0
+  - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-91b0ad47-b3bc-4a3f-a8e9-cbb731dadb17
+    _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
+    _name: In Progress
+    _taskIds: []
+    _scrollPosition: {x: 0, y: 0}
+    _treeWindow_SearchShow: 1
+    TreeWindowShowAnimation:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    _treeWindow_ShowTasks: 0
+  - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-aed5524b-ba99-4a81-8b75-7098bded6f87
+    _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
+    _name: Testing
+    _taskIds: []
+    _scrollPosition: {x: 0, y: 0}
+    _treeWindow_SearchShow: 1
+    TreeWindowShowAnimation:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    _treeWindow_ShowTasks: 0
+  - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-850255c2-63ea-405b-8f9f-26e866b7b341
+    _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
+    _name: Completed
+    _taskIds: []
+    _scrollPosition: {x: 0, y: 0}
+    _treeWindow_SearchShow: 1
+    TreeWindowShowAnimation:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    _treeWindow_ShowTasks: 0

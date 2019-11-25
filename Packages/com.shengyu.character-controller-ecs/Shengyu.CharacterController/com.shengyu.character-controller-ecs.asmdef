@@ -1,0 +1,37 @@
+{
+    "name": "Shengyu.CharacterController.Runtime",
+    "references": [
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:44dcb2bf5b9be4b5aa76674c8edcd1d5",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e00140a815de944528348782854abe39"
+    ],
+    "includePlatforms": [
+        "Android",
+        "BJM",
+        "Editor",
+        "iOS",
+        "LinuxStandalone64",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
