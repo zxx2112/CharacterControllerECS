@@ -16,8 +16,7 @@ MonoBehaviour:
   - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-b84aaf9d-9de9-428e-8a4f-424a8b4f9992
     _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
     _name: Planned
-    _taskIds:
-    - 2688d265237bd1d1de21c04d2145a26709e35cdf-afba9756-08b8-46d7-8260-ac58c13e02f6
+    _taskIds: []
     _scrollPosition: {x: 0, y: 0}
     _treeWindow_SearchShow: 1
     TreeWindowShowAnimation:
@@ -50,7 +49,8 @@ MonoBehaviour:
   - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-850255c2-63ea-405b-8f9f-26e866b7b341
     _boardID: 2688d265237bd1d1de21c04d2145a26709e35cdf-c195c7ae-ab27-4bf0-99ee-ccd7ce2abd4f
     _name: Completed
-    _taskIds: []
+    _taskIds:
+    - 2688d265237bd1d1de21c04d2145a26709e35cdf-afba9756-08b8-46d7-8260-ac58c13e02f6
     _scrollPosition: {x: 0, y: 0}
     _treeWindow_SearchShow: 1
     TreeWindowShowAnimation:
