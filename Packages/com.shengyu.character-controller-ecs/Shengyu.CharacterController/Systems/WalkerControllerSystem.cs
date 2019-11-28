@@ -93,8 +93,8 @@ namespace PhysicBaseCharacterControllerECS
 
         private bool CheckForGround(PhysicsWorld physicsWorld,ControllerState _currentControllerState ,float3 playerPosition,float _rayHeight,float _castLength,ref float3 _currentGroundAdjustmentVelocity,ref float3 _hitPoint,ref float3 _rayFrom) {
 
-            float3 newGroundAdjustmentVelocity = float3.zero;
-            bool haveHit = false;
+            float3 newGroundAdjustmentVelocity;
+            bool haveHit;
 
             //使用射线查询,之后改成使用ColliderDistance查询
             _rayFrom = playerPosition + new float3(0,1,0) * _rayHeight;
@@ -103,7 +103,7 @@ namespace PhysicBaseCharacterControllerECS
             var stepHeight = 0.25f;
 
             if (_currentControllerState == ControllerState.Grounded)
-                rayTo = rayTo + new float3(0,-1,0) * stepHeight;
+                rayTo += new float3(0,-1,0) * stepHeight;
 
             //发送射线
             if (CastLine(physicsWorld, _rayFrom, rayTo, out var _hit)) {
