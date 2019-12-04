@@ -12,33 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: -204880839, guid: 4cd9652fe3bf4c544863d07774f64cb2, type: 3}
   m_Name: Tasks
   m_EditorClassIdentifier: 
-  _all:
-  - _id: 2688d265237bd1d1de21c04d2145a26709e35cdf-afba9756-08b8-46d7-8260-ac58c13e02f6
-    _parentID: 2688d265237bd1d1de21c04d2145a26709e35cdf-b84aaf9d-9de9-428e-8a4f-424a8b4f9992
-    _lock: 0
-    _done: 0
-    _isParentSubtask: 0
-    _name: "\u89D2\u8272\u63A7\u5236\u5668\u5305\u7ED3\u6784\u5316"
-    _description: 
-    _showSubtasks: 0
-    _tasksIds: []
-    _hideCompletedChecklistItems: 0
-    _showTags: 0
-    _tagIds: []
-    _showAssets: 0
-    _assets: []
-    _showColors: 0
-    _colorIds: []
-    _screenshot: []
-    _showScreenshots: 0
-    _createdTicks: 637103168758078441
-    _updatedTicks: 637103169299158190
-    _scrollPosition: {x: 0, y: 0}
-    _boardWindow_SearchShow: 1
-    _taskWindow_ShowSubtask: 0
-    _treeWindow_SearchShow: 1
-    treeWindowShowSubtasksAnimation:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    _treeWindow_ShowSubtasks: 0
+  _all: []

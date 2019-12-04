@@ -1,11 +1,12 @@
 {
-    "name": "com.shengyu.character-controller-ecs",
-    "displayName": "Character Controller ECS",
-    "version": "0.0.1",
-    "unity": "2019.2",
-    "description": "一个基于物理的角色控制器",
-    "keywords": [
-    ],
-    "dependencies": {}
+  "name": "com.shengyu.character-controller-ecs",
+  "displayName": "Character Controller ECS",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "\u4e00\u4e2a\u57fa\u4e8e\u7269\u7406\u7684\u89d2\u8272\u63a7\u5236\u5668",
+  "keywords": [],
+  "dependencies": {
+    "com.unity.entities": "0.1.1-preview",
+    "com.unity.physics": "0.2.4-preview"
   }
-  
+}
